@@ -1,0 +1,16 @@
+li{
+    color:blue;
+    font-family:'Times New Roman';
+}
+
+h1{
+    font-family:arial;
+    text-align:center;
+    text-shadow: 3px 5px 5px;
+}
+
+body{
+    background-image:url(danzaimagen.webp);
+}
+
+
